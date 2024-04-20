@@ -1,4 +1,4 @@
-### Hi I'm Jemin
+### Hi I'm Jemin Jeon
 ### I’m currently studying CSE in POSTECH
 
 
