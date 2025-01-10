@@ -28,7 +28,7 @@
 **Position:** Software Development Intern  
 **Period:** June 2024 ~ August 2024  
 - Worked in the Digital Sales/CRM team to develop web applications.  
-- Built robust features using React.js for the frontend and Spring Boot for the backend.  
+- Developed a web application by building the frontend with React.js and the backend with Spring Boot.
 
 ### Plask 🇰🇷  
 **Position:** Machine Learning Development Intern  
@@ -39,4 +39,3 @@
 ---
 
 <!-- Feel free to modify this section based on your needs -->
-**This repository serves as a window into my academic and professional journey. Let's connect!**  
