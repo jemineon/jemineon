@@ -1,44 +1,42 @@
-### Hi I'm Jemin Jeon
-### I’m currently studying CSE in POSTECH
+# Hi, I'm Jemin Jeon 👋  
+🌱 Currently studying Computer Science and Engineering (CSE) at POSTECH  
 
-# Experience
+---
 
-## Pohang University of Science and Technology (POSTECH) 🇰🇷  
+##  Education  
+
+### Pohang University of Science and Technology (POSTECH) 🇰🇷  
 **Major:** Computer Science  
 **Period:** February 2018 ~ August 2025 (Expected)  
-Studied computer science with a focus on computer systems.  
+- Focused on computer systems to deepen my expertise in software and hardware integration.  
 
----
-
-## University of Oregon 🇺🇸  
+### University of Oregon 🇺🇸  
 **Major:** Computer Science  
 **Period:** September 2024 ~ December 2024  
-Participated as an exchange student, enhancing my knowledge in computer science while improving my English skills and broadening my global perspective.  
+- Participated as an exchange student, expanding my knowledge in computer science, improving my English proficiency, and gaining a global perspective.  
+
+### Gyeongnam Science High School 🇰🇷  
+**Status:** Early Graduation (2 Years)  
+**Period:** March 2016 ~ February 2018  
+- Graduated early with a focus on mathematics and science.
 
 ---
 
-## LG CNS 🇰🇷  
+##  Experience  
+
+### LG CNS 🇰🇷  
 **Position:** Software Development Intern  
 **Period:** June 2024 ~ August 2024  
-Worked in the Digital Sales/CRM team, developing web applications using React and Spring Boot.  
+- Worked in the Digital Sales/CRM team to develop web applications.  
+- Built robust features using React.js for the frontend and Spring Boot for the backend.  
+
+### Plask 🇰🇷  
+**Position:** Machine Learning Development Intern  
+**Period:** February 2020 ~ August 2020  
+- Contributed to the development and optimization of machine learning models for real-time motion capture processing.  
+- Gained hands-on experience in data preprocessing, model training, and evaluation.  
 
 ---
 
-## Plask 🇰🇷  
-**Position:** Machine Learning Development Intern  
-**Period:** February 2020 ~ August 2020  
-Contributed to the development and optimization of machine learning models for real-time motion capture processing.  
-<!--
-**jemineon/jemineon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Feel free to modify this section based on your needs -->
+**This repository serves as a window into my academic and professional journey. Let's connect!**  
