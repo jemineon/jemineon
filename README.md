@@ -18,7 +18,7 @@
 ### Gyeongnam Science High School 🇰🇷  
 **Status:** Early Graduation (2 Years)  
 **Period:** March 2016 ~ February 2018  
-- Graduated early with a focus on mathematics and science.
+- Graduated early with a focus on mathematics and science.  
 
 ---
 
@@ -28,7 +28,7 @@
 **Position:** Software Development Intern  
 **Period:** June 2024 ~ August 2024  
 - Worked in the Digital Sales/CRM team to develop web applications.  
-- Developed a web application by building the frontend with React.js and the backend with Spring Boot.
+- Developed a web application by building the frontend with React.js and the backend with Spring Boot.  
 
 ### Plask 🇰🇷  
 **Position:** Machine Learning Development Intern  
@@ -36,6 +36,19 @@
 - Contributed to the development and optimization of machine learning models for real-time motion capture processing.  
 - Gained hands-on experience in data preprocessing, model training, and evaluation.  
 
+### POSTECH Student Mentor Program (SMP) 🇰🇷  
+**Position:** Mentor (Computer Architecture)  
+**Period:** Spring 2024 ~ Spring 2025  
+- Provided academic support and guidance to students taking Computer Architecture.  
+- Assisted students in understanding complex computer systems concepts.  
+
+### POSTECH Database Systems Lab 🇰🇷  
+**Position:** Research Intern  
+**Period:** January 2025 ~ February 2025  
+- Participated in database system research focusing on learned cache.  
+- Contributed to the development and analysis of learned caching mechanisms to enhance database performance.  
+
 ---
 
 <!-- Feel free to modify this section based on your needs -->
+
