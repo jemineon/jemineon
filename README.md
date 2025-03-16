@@ -36,6 +36,11 @@
 - Contributed to the development and optimization of machine learning models for real-time motion capture processing.  
 - Gained hands-on experience in data preprocessing, model training, and evaluation.  
 
+
+ㅡㅡㅡ
+
+## Academic Activities
+
 ### POSTECH Student Mentor Program (SMP) 🇰🇷  
 **Position:** Mentor (Computer Architecture)  
 **Period:** Spring 2024 ~ Spring 2025  
