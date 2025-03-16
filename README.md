@@ -37,7 +37,7 @@
 - Gained hands-on experience in data preprocessing, model training, and evaluation.  
 
 
-ㅡㅡㅡ
+---
 
 ## Academic Activities
 
